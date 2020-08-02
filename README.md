@@ -1,8 +1,8 @@
-# Starter for deploying [fast.ai](https://www.fast.ai) models on [Render](https://render.com)
+# Application for Pizza's image classification using [fast.ai](https://www.fast.ai) models and deployed on [Render](https://render.com)
 
-This repo can be used as a starting point to deploy [fast.ai](https://github.com/fastai/fastai) models on Render.
+You can upload your Calzone/Pineapple/Pepperoni pizza's picture on the [website](https://choose-the-right-pizza.onrender.com) to check the result !
 
-The sample app described here is up at https://fastai-v3.onrender.com. Test it out with bear images!
+You can also use this repo to make your own image classifier using fast.ai models.
 
 You can test your changes locally by installing Docker and using the following command:
 
